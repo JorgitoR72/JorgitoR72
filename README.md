@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+<div align="center">
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   hola, soy [Tu Nombre] 👋                           ║
+║   construyendo la web, un commit a la vez            ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+</div>
 <!--
 **JorgitoR72/JorgitoR72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
