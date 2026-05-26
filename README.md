@@ -106,13 +106,11 @@ Rol: Desarrollo Web en Equipo
 
 ---
 
-# 📊 ESTADÍSTICAS DEL SISTEMA
+# 📊 RACHA DE CONTRIBUCIONES
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JorgitoR72&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgitoR72&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=JorgitoR72&theme=tokyonight&hide_border=true"/>
 
 </div>
 
